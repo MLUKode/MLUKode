@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateusz Łukaszczyk</h1>
 <h3 align="center">A passionate Junior Frontend Developer (soon)</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, JAVASCRIPT,**
+-I’m currently learning **HTML, CSS, SASS, JAVASCRIPT,**
 
-- 👨‍💻 All of my projects are available at [https://mlukaszczyk.com/](https://mlukaszczyk.com/)
+-All of my projects are available at [https://mlukaszczyk.com/](https://mlukaszczyk.com/)
 
-- 📫 How to reach me **mlukaszczyk977@gmail.com**
+-How to reach me **mlukaszczyk977@gmail.com**
 
-- ⚡ Fun fact **- Manchester Utd fan :(**
+-Fun fact **- Manchester Utd fan :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
